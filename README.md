@@ -1,0 +1,4 @@
+- 隐式intent的使用
+- 匹配action
+- 匹配action和category
+- 打开系统拨号
